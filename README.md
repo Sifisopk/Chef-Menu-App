@@ -15,15 +15,21 @@ This screen shows the dish's that the Chef provides.
 
 This screen has an edit button for updating the dish details.
 
+Part 2 of the POE did not have the "REMOVE BUTTON".
+
 For the final POE part i added the Remove Button for deleting unwanted dishes.
 
 ![Screenshot (66)](https://github.com/user-attachments/assets/9c2409e2-82f4-40e4-a9f1-bb345c9f7c2d)
 
 There is also a function for showing the number of available dish and calculate the average price for the selected dish course.
 
+Part 2 of the POE did now have a calculate the average price of the items function.
+
 ![Screenshot (67)](https://github.com/user-attachments/assets/7d990cfd-d53a-49d6-baf1-0c06fad0232c)
 
 3.Add new dish button:
+
+Part 2 of the POE did not have a "Add NEW DISH" button
 
 For the final POE the Chef can add a new dish to the menu list.
 
