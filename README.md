@@ -34,3 +34,9 @@ For the final POE the Chef can add a new dish to the menu list.
 On this screen the Chef will be able to add a new item to thier menu while being able to add a "dish name", "price", and "discription" and save thier new dish to the menu items list.
 
 ![Screenshot (68)](https://github.com/user-attachments/assets/1cc00e09-4ed7-4393-931c-fba31327b1c2)
+
+5. YOUTUBE VIDEO
+
+LINK: https://youtu.be/FVmPnU1SWy4
+6. ![Screenshot (336)](https://github.com/user-attachments/assets/644db0a1-71cd-42c8-96b7-7a61890d196e)
+
