@@ -23,7 +23,7 @@ For the final POE part i added the Remove Button for deleting unwanted dishes.
 
 There is also a function for showing the number of available dish and calculate the average price for the selected dish course.
 
-Part 2 of the POE did now have a calculate the average price of the items function.
+Part 2 of the POE did not have a calculate the average price of the items function.
 
 ![Screenshot (67)](https://github.com/user-attachments/assets/7d990cfd-d53a-49d6-baf1-0c06fad0232c)
 
