@@ -4,6 +4,7 @@ ST10435609
 1.home screen:
 
 Separate page that allows the user to filter by course.
+
 The homescreen also has a display that shows the average price for each of the courses.
 
 ![Screenshot (65)](https://github.com/user-attachments/assets/3bca6886-9eb1-41fa-9799-f86dfbaadbb4)
@@ -11,7 +12,9 @@ The homescreen also has a display that shows the average price for each of the c
 2.Menu items:
 
 This screen shows the dish's that the Chef provides.
+
 This screen has an edit button for updating the dish details.
+
 For the final POE part i added the Remove Button for deleting unwanted dishes.
 
 ![Screenshot (66)](https://github.com/user-attachments/assets/9c2409e2-82f4-40e4-a9f1-bb345c9f7c2d)
@@ -29,4 +32,5 @@ For the final POE the Chef can add a new dish to the menu list.
 4.Update Dish screen:
 
 On this screen the Chef will be able to add a new item to thier menu while being able to add a "dish name", "price", and "discription" and save thier new dish to the menu items list.
+
 ![Screenshot (68)](https://github.com/user-attachments/assets/1cc00e09-4ed7-4393-931c-fba31327b1c2)
