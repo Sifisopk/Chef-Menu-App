@@ -38,5 +38,5 @@ On this screen the Chef will be able to add a new item to thier menu while being
 5. YOUTUBE VIDEO
 
 LINK: https://youtu.be/FVmPnU1SWy4
-6. ![Screenshot (336)](https://github.com/user-attachments/assets/644db0a1-71cd-42c8-96b7-7a61890d196e)
+![Screenshot (336)](https://github.com/user-attachments/assets/644db0a1-71cd-42c8-96b7-7a61890d196e)
 
