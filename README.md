@@ -1,6 +1,10 @@
 MAST5112 FINAL POE
 ST10435609
 
+A menu app that let's a chef manage and update menu items for a restaurant.
+
+![chef-menu](https://github.com/user-attachments/assets/6bcd3194-564f-44e2-9bc2-f35944b62c67)
+
 1.home screen:
 
 Separate page that allows the user to filter by course.
@@ -41,8 +45,4 @@ On this screen the Chef will be able to add a new item to thier menu while being
 
 ![Screenshot (68)](https://github.com/user-attachments/assets/1cc00e09-4ed7-4393-931c-fba31327b1c2)
 
-5. YOUTUBE VIDEO
-
-LINK: https://youtu.be/FVmPnU1SWy4
-![Screenshot (336)](https://github.com/user-attachments/assets/644db0a1-71cd-42c8-96b7-7a61890d196e)
 
